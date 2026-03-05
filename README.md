@@ -24,7 +24,7 @@ Welcome to **Rubik's Cube CLI** 🎲 – a simple but fun command-line tool for 
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/rubix-cli.git
+git clone https://github.com/tradewcs/rubix-cli.git
 cd rubix-cli
 python main.py
 ```
