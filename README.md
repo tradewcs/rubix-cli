@@ -26,7 +26,6 @@ Welcome to **Rubik's Cube CLI** 🎲 – a simple but fun command-line tool for 
 ```bash
 git clone https://github.com/yourusername/rubix-cli.git
 cd rubix-cli
-# (Optionally create/activate a virtualenv)
 python main.py
 ```
 
@@ -50,13 +49,6 @@ Moves may include:
 ### Solving
 
 Enter moves one at a time and watch the ASCII cube update. When the cube is solved, the CLI congratulates you and shows your time and move count.
-
-## 📂 Project Structure
-
-```
-main.py       # core logic and CLI interface
-README.md     # this documentation
-```
 
 ## 🧩 Extending the Project
 
