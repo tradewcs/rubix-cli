@@ -4,6 +4,8 @@ Welcome to **Rubik's Cube CLI** 🎲 – a simple but fun command-line tool for 
 
 ---
 
+![CLI interface](img/picture1.png)
+
 ## 🚀 Features
 
 - Fully simulated 3x3 Rubik's cube.
